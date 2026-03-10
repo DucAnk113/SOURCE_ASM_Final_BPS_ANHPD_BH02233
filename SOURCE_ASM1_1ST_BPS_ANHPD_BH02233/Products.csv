@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,SupplierID,UnitCost,UnitPrice
+P001,Galaxy S24 Ultra,Smartphone,S002,800,1200
+P002,Galaxy A55,Smartphone,S005,300,500
+P003,Neo QLED 8K TV,TV,S001,1500,2500
+P004,Bespoke Fridge,Home Appliance,S003,900,1600
+P005,OLED Monitor G9,Monitor,S001,700,1100
+P006,Galaxy Watch 6,Wearable,S004,150,300

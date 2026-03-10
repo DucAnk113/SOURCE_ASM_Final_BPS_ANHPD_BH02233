@@ -1,0 +1,7 @@
+CustomerID,CustomerName,Region,Segment,PriorityLevel
+C101,The Gioi Di Dong,South,Retailer,High
+C102,FPT Shop,North,Retailer,High
+C103,CellphoneS,Central,Retailer,Medium
+C104,Dien May Xanh,South,Retailer,High
+C105,Nguyen Kim,North,Distributor,Medium
+C106,Individual Buyers,National,Online,Low

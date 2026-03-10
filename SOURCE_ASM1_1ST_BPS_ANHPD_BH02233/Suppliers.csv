@@ -1,0 +1,6 @@
+SupplierID,SupplierName,Country,MaterialType,LeadTimeDays,ReliabilityScore
+S001,Samsung Display,Vietnam,OLED Panels,5,9.8
+S002,TSMC,Taiwan,Semiconductors,20,9.5
+S003,Posco Steel,Korea,Metal Casings,15,9.2
+S004,Corning Inc,USA,Gorilla Glass,10,9.6
+S005,MediaTek,China,Chips (Mid-range),12,9.0

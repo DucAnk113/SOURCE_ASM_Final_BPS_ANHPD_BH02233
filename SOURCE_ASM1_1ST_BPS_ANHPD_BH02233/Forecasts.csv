@@ -1,0 +1,7 @@
+ForecastID,Month,ProductID,ForecastedQuantity,ConfidenceLevel
+FC001,2024-04,P001,150,High
+FC002,2024-04,P002,220,Medium
+FC003,2024-04,P003,30,High
+FC004,2024-05,P001,180,High
+FC005,2024-05,P002,200,Medium
+FC006,2024-05,P004,40,Low
